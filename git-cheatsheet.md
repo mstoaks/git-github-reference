@@ -8,3 +8,10 @@
 2. Create a directory on local machine, run git init
 3. On local machine - git remote add origin <pathtogitrepo>
 4. On local machine - git pull origin master
+
+### To Update Github with Local Changes
+git push origin master
+
+
+### To Update local with latest Github
+git pull origin master
