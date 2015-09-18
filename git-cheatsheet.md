@@ -1,7 +1,9 @@
 ### Start with a github repo then clone it to a local machine
 1. Create the repo on github
 2. Create a directory on local
-3. On local machine - git clone \<path to git repo\> \<where you want the dir\>
+3. On local machine
+ 
+`git clone \<path to git repo\> \<where you want the dir\>`
 
 ### Start with github repo then create a local repo sync'd to it
 1. Create the repo on github
