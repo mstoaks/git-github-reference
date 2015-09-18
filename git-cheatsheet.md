@@ -15,3 +15,14 @@ git push origin master
 
 ### To Update local with latest Github
 git pull origin master
+
+### To Examine Current Git Config
+git config -l
+
+### To Stage Changes for Commit and Sync to Github
+git add <file that's changes>
+
+### To commit
+git commit -m "<your commit message>"
+
+
