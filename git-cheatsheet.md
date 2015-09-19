@@ -10,8 +10,11 @@
 4. On local machine - `git pull origin master`
 
 ### To Update Github with Local Changes
+Assumes remote has been set
 `git push origin master`
-
+To check/set remote
+`git remote -v` - lists remotes
+`git remote add origin <path to git repo>` - set the remote
 
 ### To Update local with latest Github
 `git pull origin master`
