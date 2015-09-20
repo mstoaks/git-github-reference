@@ -8,6 +8,7 @@
 2. Create a directory on local machine, run git init
 3. On local machine - `git remote add origin <path to git repo>`
 4. On local machine - `git pull origin master`
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
 
 ### To Update Github with Local Changes
 Assumes remote has been set
